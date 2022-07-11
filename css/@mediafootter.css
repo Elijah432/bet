@@ -1,0 +1,238 @@
+@media(max-width:1280px){
+    .icon{
+        margin-left: 400px !important;
+    }
+}
+@media(max-width:1173px){
+    .icon{
+        margin-left: 300px !important;
+    }
+}
+@media(max-width:1048px){
+    .footter{
+        margin-top: 118px;
+    }
+    .icon{
+        margin-left: 200px !important;
+    }
+    .money{
+        width: 700px !important;
+    }
+}
+@media(max-width:930px){
+    .icon{
+        margin-left: 100px !important;
+    }
+    .money{
+        width: 600px !important;
+    }
+}
+@media(max-width:804px){
+    .icon{
+        margin-left: 50px !important;
+    }
+    .money{
+        width: 600px !important;
+    }
+    .rig{
+        font-size: 8px !important;
+    }
+    .read img{
+        width: 20px !important;
+        height: 20px!important;
+    }
+}
+/* @media(max-width:797px){
+    .footter{
+        width: 101% !important;
+    }
+    .last{
+        width: 101% !important;
+    }
+}
+@media(max-width:789px){
+    .footter{
+        width: 101.5% !important;
+    }
+    .last{
+        width: 101.5% !important;
+    }
+}
+@media(max-width:784px){
+    .footter{
+        width: 101.9% !important;
+    }
+    .last{
+        width: 101.9% !important;
+    }
+}
+@media(max-width:780px){
+    .footter{
+        width: 102.5% !important;
+    }
+    .last{
+        width: 102.5% !important;
+    }
+}
+@media(max-width:776px){
+    .footter{
+        width: 103% !important;
+    }
+    .last{
+        width: 103% !important;
+    }
+}
+@media(max-width:774px){
+    .footter{
+        width: 103.3% !important;
+    }
+    .last{
+        width: 103.3% !important;
+    }
+}
+@media(max-width:773px){
+    .footter{
+        width: 103.5% !important;
+    }
+    .last{
+        width: 103.5% !important;
+    }
+}
+@media(max-width:718px){
+    .icon{
+        margin-left: 0px !important;
+    }
+    .money{
+        width: 500px !important;
+    }
+    .rig{
+        font-size: 8px !important;
+    }
+    .read img{
+        width: 20px !important;
+        height: 20px!important;
+    }
+} */
+/* @media(max-width:709px){
+    .footter{
+        width: 104.3% !important;
+    }
+    .last{
+        width: 104.3% !important;
+    }
+}
+@media(max-width:705px){
+    .footter{
+        width: 105% !important;
+    }
+    .last{
+        width: 105% !important;
+    }
+}
+@media(max-width:705px){
+    .footter{
+        width: 106% !important;
+    }
+    .last{
+        width: 106% !important;
+    }
+}
+@media(max-width:693px){
+    .footter{
+        width: 107% !important;
+    }
+    .last{
+        width: 107% !important;
+    }
+}
+@media(max-width:688px){
+    .footter{
+        width: 108% !important;
+    }
+    .last{
+        width: 108% !important;
+    }
+}
+@media(max-width:681px){
+    .footter{
+        width: 110% !important;
+    }
+    .last{
+        width: 110% !important;
+    }
+}
+@media(max-width:670px){
+    .footter{
+        width: 110% !important;
+    }
+    .last{
+        width: 110% !important;
+    }
+}
+@media(max-width:668px){
+    .footter{
+        width: 111% !important;
+    }
+    .last{
+        width: 111% !important;
+    }
+}
+@media(max-width:660px){
+    .footter{
+        width: 112% !important;
+    }
+    .last{
+        width: 112% !important;
+    }
+}
+@media(max-width:653px){
+    .footter{
+        width: 113% !important;
+    }
+    .last{
+        width: 113% !important;
+    }
+}
+@media(max-width:647px){
+    .footter{
+        width: 115% !important;
+    }
+    .last{
+        width: 115% !important;
+    }
+}
+@media(max-width:635px){
+    .footter{
+        width: 117% !important;
+    }
+    .last{
+        width: 117% !important;
+    }
+}
+@media(max-width:619px){
+    .footter{
+        width: 120% !important;
+    }
+    .last{
+        width: 120% !important;
+    }
+}
+@media(max-width:607px){
+    .footter{
+        width: 123% !important;
+    }
+    .last{
+        width: 123% !important;
+    }
+}
+@media(max-width:553px){
+    .right2 img{
+        display: none !important;
+    }
+    .right2{
+        display: none !important;
+    }
+    .left2{
+        width: 100% !important;
+    }
+} */

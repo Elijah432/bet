@@ -1,0 +1,249 @@
+@font-face {
+    font-family: Jah;
+    src: url(./Roboto_Flex/RobotoFlex-VariableFont_GRAD\,XTRA\,YOPQ\,YTAS\,YTDE\,YTFI\,YTLC\,YTUC\,opsz\,slnt\,wdth\,wght.ttf);
+  }
+  body{
+    background-color: black !important;
+    font-family: Jah !important;
+    margin: 0px;
+    padding: 0px;
+  }
+  nav {
+    background-color: #373A45;
+    margin-top: -5px;
+    width: 100%;
+    position: fixed !important;
+    top: 0px;
+    z-index: 500;
+  }
+  nav img {
+    width: 150px;
+  }
+  nav a {
+    color: white !important;
+    font-size: 15px;
+  }
+  nav a:hover {
+    color: #FFCD00 !important;
+  }
+  nav a:active {
+    color: #FFCD00;
+  }
+  nav button {
+    margin-top: 6px;
+    border: none;
+    font-size: 12px;
+    padding: 6px 20px 9px 20px;
+    background-color: #0D7B3C;
+    color: white;
+    border-radius: 3px;
+  }
+  .take{
+    border-bottom: 1px solid #373A45;
+    width: 1308px;
+  }
+  #me a{
+    color: hsla(0,0%,100%,.75);
+    text-decoration: none;
+    font-size: 12px;
+    font-family: jah,sans-serif;
+  }
+  #me a:hover{
+    color: white;
+  }
+  .holder{
+    margin-top: 15px;
+  }
+  .holder div{
+    margin-right: 15px;
+  }
+  .left{
+    background-color: #1F2128;
+    width: 73%;
+    height: 3088px;
+    border-top-left-radius: 4px;
+    border-top-right-radius: 4px;
+  }
+  .right{
+    width: 24.2%;
+    height: 3094px;
+    position: absolute;
+    right: 1.2%;
+    top: 22.7%;
+  }
+  .left .one{
+    width: 100%;
+    height: 40.39px;
+    background-color: #2F3239;
+    border-top-left-radius: 4px;
+    border-top-right-radius: 4px;
+  }
+  .left .second{
+    background-color: #363944;
+    width: 100%;
+    height: 60px;
+    align-items: center;
+    
+  }
+  .left i:hover{
+    color: white !important;
+    cursor: pointer;
+    
+  }
+  .second div{
+    color: #BEBFC4;
+  }
+  .left .third{
+    border-bottom: 1px solid #424653;
+    width: 100%;
+    height: 40px;
+    display: flex;
+    align-items: center;
+  }
+  .me{
+    background-color: #2E3239;
+    margin-left: -8px;
+    width: 145px;
+    height: 25px;
+  }
+  .me div{
+    color: #d7d8dd;
+    padding-left: 5px;
+    padding-top: 3px;
+  }
+  .me div:hover{
+     color: white;
+     cursor: pointer;
+  }
+  .but{
+    border: none;
+    background: none;
+  }
+  .drop{
+    background-color: #4E5261;
+    height: 273px;
+    width: 235px;
+    position: absolute;
+    display: none;
+  }
+  .but:focus .drop{
+    display: inherit;
+  }
+  .green:hover{
+    background-color: #606471;
+    width: 100%;
+    color: #62C18A !important;
+  }
+  .four{
+    background-color: #424653;
+    width: 100%;
+  }
+  .left .five{
+    border-bottom: 1px solid #424653;
+    width: 100%;
+    height: 40px;
+    display: flex;
+    align-items: center;
+  }
+  .left .six{
+    background-color:#363944;
+    border-bottom: 1px solid rgb(94, 92, 92);
+    width: 100%;
+    height: 50px;
+    align-items: center;
+    /* justify-content: space-between; */
+    font-size: 12px;
+  }
+  .yellow:hover{
+    background-color: #FFCD00!important;
+    color: black;
+  }
+  .co{
+    background-color: #1B1D21;
+    width: 322px;
+    height: 20px;
+  }
+  .back{
+    background-image: url(./stadium-mob.jpg);
+    width: 323px;
+    height: 160px;
+    background-position: bottom;
+    background-repeat: no-repeat;
+  }
+  .pad div{
+    font-size: 12px;
+    border: 1px solid white;
+    margin-left: -15px;
+    /* padding: 0px 23px 0px 23px;  */
+  }
+  .pad div:hover{
+    background-color: #0D7B3C !important;
+  }
+  .right .box{
+    background-color: #2C2E37;
+    width: 322px;
+    height: 140px;
+    position: sticky;
+    top: 13%;
+    overflow-y: auto;
+    overflow-x: hidden;
+    z-index: 20;
+    margin-top: 10px;
+  }
+  .right img{
+    width: 322px;
+    height: 140px;
+    margin-top: 10px;
+  }
+  .bet{
+    background-color: #4E5261;
+    width: 322px;
+    height: 42px;
+    font-size: 11px;
+    display: flex;
+    align-items: center;
+    padding-left: 15px;
+  }
+  .text{
+    font-size: 12px;
+    color: white;
+    padding-top: 20px;
+  }
+  .text div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+  }
+  .footter{
+    margin-top: 10px;
+  }
+  .footter a{
+    color: #31A554;
+    font-size: 12px;
+  }
+  .footter a:hover{
+    color: white;
+    text-decoration: none;
+  }
+  .left2{
+    width: 1165px;
+    height: 270px;
+    background-color: #37444E;
+    border-top: 4px solid #31A554;
+  }
+  .right2{
+    width: 230px;
+    height: 270px;
+    background-color: #3D434E;
+    border-top: 4px solid red;
+  }
+  .right{
+    margin-top: -3.8px;
+  }
+ .tog a{
+  color: #5D6065;
+ }
+ .tog a:hover{
+  color: #5D6065;
+ }

@@ -1,0 +1,97 @@
+@media (max-width:1144px){
+  nav .seven{
+    display: none;
+  }
+  nav .eight{
+    display: none;
+  }
+  nav .nine{
+    display: none;
+  }
+  .drop1{
+    display: inherit !important;
+  }
+  .list a{
+    padding-bottom: 20px;
+  }
+  
+}
+@media (max-width:941px){
+  .drop1{
+    display: none !important;
+  }
+  .drop2{
+    display: inherit !important;
+  }
+  nav .six{
+    display: none;
+  }
+  nav .five{
+    display: none;
+  }
+  .list a{
+    padding-bottom: 20px;
+  }
+}
+@media(max-width:800px){
+  .list a{
+    padding-bottom: 20px;
+  }
+  nav .four{
+    display: none;
+  }
+  .drop2{
+    display: none !important;
+  }
+  .drop3{
+    display: inherit !important;
+  }
+}
+@media(max-width:690px){
+  .list a{
+    padding-bottom: 20px;
+  }
+  nav .three{
+    display: none;
+  }
+  .drop3{
+    display: none !important;
+  }
+  .drop4{
+    display: inherit !important;
+  }
+}
+@media(max-width:625px){
+  .list a{
+    padding-bottom: 30px;
+  }
+  nav .two{
+    display: none;
+  }
+  nav .one{
+    display: none;
+  }
+  .drop4{
+    display: none !important;
+  }
+  .drop5{
+    display: inherit !important;
+  }
+}
+@media(max-width:575px){
+  .list a{
+    padding-bottom: 30px;
+  }
+  nav .eleven{
+    display: none;
+  }
+  nav .ten{
+    display: none;
+  }
+  .drop5{
+    display: none !important;
+  }
+  .drop6{
+    display: inherit !important;
+  }
+}
