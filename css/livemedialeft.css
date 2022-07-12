@@ -1,0 +1,435 @@
+@media(max-width:1280px){
+    .left{
+        width: 60% !important;
+    }
+    .ame{
+        display: none !important;
+    }
+    .lad{
+        display: none !important;
+    }
+    .left .five{
+        margin-left: -250px !important;
+        border: none !important;
+    }
+    .carry{
+        margin-left: 150px !important;
+    }
+}
+@media(max-width:1243px){
+    .left .five{
+        margin-left: -280px !important;
+        border: none !important;
+    }
+    .carry{
+        margin-left: 100px !important;
+    }
+    .skill{
+        margin-left: 230px !important;
+    }
+}
+@media(max-width:1166px){
+    .left .five{
+        margin-left: -310px !important;
+        border: none !important;
+    }
+    .carry{
+        margin-left: 70px !important;
+    }
+    .skill{
+        margin-left: 200px !important;
+    }
+}
+@media(max-width:1110px){
+    .left .five{
+        margin-left: -350px !important;
+        border: none !important;
+    }
+    .carry{
+        margin-left: 30px !important;
+    }
+    .skill{
+        margin-left: 160px !important;
+    }
+}
+@media(max-width:1045px){
+    .left .five{
+        margin-left: -380px !important;
+        border: none !important;
+    }
+    .carry{
+        margin-left: 0px !important;
+    }
+    .skill{
+        margin-left: 130px !important;
+    }
+}
+@media(max-width:995px){
+    .boca{
+        margin-left: -20px !important;
+    }
+    .left .five{
+        margin-left: -395px !important;
+        border: none !important;
+    }
+    .skill{
+        margin-left: 110px !important;
+    }
+}
+@media(max-width:962px){
+    .left .five{
+        margin-left: -410px !important;
+        border: none !important;
+    }
+    .carry{
+        margin-left: -20px !important;
+    }
+    .skill{
+        margin-left: 90px !important;
+    }
+}
+@media(max-width:925px){
+    .boca{
+        margin-left: -25px !important;
+    }
+    .left .five{
+        margin-left: -440px !important;
+        border: none !important;
+    }
+    .carry{
+        margin-left: -30px !important;
+    }
+    .skill{
+        margin-left: 70px !important;
+    }
+}
+@media(max-width:900px){
+    .lose{
+        width: 0px !important;
+    }
+    .lose div{
+        display: none !important;
+    }
+    .carry{
+        margin-left: 140px !important;
+    }
+    .left .five{
+        margin-left: -250px !important;
+        border: none !important;
+    }
+}
+@media(max-width:885px){
+    .carry{
+        margin-left: 120px !important;
+    }
+    .left .five{
+        margin-left: -270px !important;
+        border: none !important;
+    }
+    .skill{
+        margin-left: 40px !important;
+    }
+}
+@media(max-width:850px){
+    .base{
+        display: none !important;
+    }
+    .carry{
+        margin-left: 100px !important;
+    }
+    .left .five{
+        margin-left: -290px !important;
+        border: none !important;
+    }
+    .skill{
+        margin-left: 100px !important;
+    }
+    .way{
+        display: none !important;
+    }
+}
+@media(max-width:818px){
+    .carry{
+        margin-left: 80px !important;
+    }
+    .left .five{
+        margin-left: -310px !important;
+        border: none !important;
+    }
+    .skill{
+        margin-left: 80px !important;
+    }
+}
+@media(max-width:785px){
+    .carry{
+        margin-left: 50px !important;
+    }
+    .left .five{
+        margin-left: -350px !important;
+        border: none !important;
+    }
+    .skill{
+        margin-left: 50px !important;
+    }
+}
+@media(max-width:735px){
+    .carry{
+        margin-left: 20px !important;
+    }
+    .left .five{
+        margin-left: -380px !important;
+        border: none !important;
+    }
+    .skill{
+        margin-left: 20px !important;
+    }
+}
+@media(max-width:685px){
+    .carry{
+        margin-left: 0px !important;
+    }
+    .left .five{
+        margin-left: -400px !important;
+        border: none !important;
+    }
+    .skill{
+        margin-left: 0px !important;
+    }
+}
+@media(max-width:650px){
+    .volley{
+        display: none;
+    }
+    .carry{
+        margin-left: -20px !important;
+    }
+    .left .five{
+        margin-left: -420px !important;
+        border: none !important;
+    }
+    .skill{
+        margin-left: 60px !important;
+    }
+}
+@media(max-width:650px){
+    .volley{
+        display: none;
+    }
+    .carry{
+        margin-left: -20px !important;
+    }
+    .left .five{
+        margin-left: -420px !important;
+        border: none !important;
+    }
+    .skill{
+        margin-left: 60px !important;
+    }
+}
+@media(max-width:616px){
+    .carry{
+        margin-left: -40px !important;
+    }
+    .left .five{
+        margin-left: -440px !important;
+        border: none !important;
+    }
+    .skill{
+        margin-left: 40px !important;
+    }
+}
+@media(max-width:600px){
+    .left{
+        width: 98% !important;
+    }
+    .carry{
+        margin-left: 170px !important;
+    }
+    .left .five{
+        margin-left: -230px !important;
+        border: none !important;
+    }
+    .skill{
+        margin-left: 250px !important;
+    }
+}
+@media(max-width:579px){
+    .left{
+        width: 98% !important;
+    }
+    .carry{
+        margin-left: 145px !important;
+    }
+    .left .five{
+        margin-left: -260px !important;
+        border: none !important;
+    }
+    .skill{
+        margin-left: 230px !important;
+    }
+}
+@media(max-width:580px){
+    .left{
+        margin-left: 8px !important;
+    }
+}
+@media(max-width:565px){
+    .left{
+        margin-left: 14px !important;
+    }
+}
+@media(max-width:555px){
+    .lose{
+        margin-left: -300px !important;
+    }
+    .left{
+        margin-left: 0px !important;
+    }
+    .carry{
+        margin-left: 120px !important;
+    }
+    .left .five{
+        margin-left: -280px !important;
+        border: none !important;
+    }
+    .skill{
+        margin-left: 190px !important;
+    }
+}
+@media(max-width:530px){
+    .left {
+        margin-left: 10px !important;
+    }
+    .lose{
+        margin-left: -100px !important;
+    }
+    .carry{
+        margin-left: 80px !important;
+    }
+    .left .five{
+        margin-left: -330px !important;
+        border: none !important;
+    }
+    .skill{
+        margin-left: 120px !important;
+    }
+}
+@media(max-width:510px){
+    .left {
+        margin-left: 18px !important;
+    }
+}
+@media(max-width:500px){
+    .left {
+        margin-left: 0px !important;
+    }
+}
+@media(max-width:489px){
+    .left {
+        margin-left: 0px !important;
+    }
+    .skill{
+        margin-left: 100px !important;
+    }
+    .carry{
+        margin-left: 50px !important;
+    }
+    .left .five{
+        margin-left: -350px !important;
+        border: none !important;
+    }
+}
+@media(max-width:470px){
+    .left {
+        margin-left: 10px !important;
+    }  
+}
+@media(max-width:459px){
+    .left {
+        margin-left: 15px !important;
+    }  
+}
+@media(max-width:455px){
+    .left {
+        margin-left: 0px !important;
+    } 
+    .carry{
+        margin-left: 20px !important;
+    }
+    .left .five{
+        margin-left: -380px !important;
+        border: none !important;
+    } 
+}
+@media(max-width:435px){
+    .left {
+        margin-left: 7px !important;
+    } 
+    .carry{
+        margin-left: 20px !important;
+    }
+    .left .five{
+        margin-left: -380px !important;
+        border: none !important;
+    } 
+}
+@media(max-width:425px){
+    .left {
+        margin-left: 13px !important;
+    } 
+    .skill{
+        margin-left: 50px !important;
+    }
+    .carry{
+        margin-left: -10px !important;
+    }
+    .left .five{
+        margin-left: -410px !important;
+        border: none !important;
+    } 
+}
+@media(max-width:410px){
+    .left {
+        margin-left: 20px !important;
+    }  
+}
+@media(max-width:400px){
+    .left {
+        margin-left: -5px !important;
+    }  
+}
+@media(max-width:395px){
+    .skill{
+        margin-left: 20px !important;
+    }
+    .carry{
+        margin-left: -30px !important;
+    }
+    .left .five{
+        margin-left: -430px !important;
+        border: none !important;
+    } 
+}
+@media(max-width:385px){
+    .left {
+        margin-left: 5px !important;
+    }
+    .left .fa-caret-down{
+        display: none !important;
+    }
+}
+@media(max-width:375px){
+    .left {
+        margin-left: -4px !important;
+    }
+    .skill{
+        margin-left: 18px !important;
+    }
+    .carry{
+        margin-left: -35px !important;
+    }
+    .left .five{
+        margin-left: -440px !important;
+        border: none !important;
+    }
+}
