@@ -1,0 +1,36 @@
+@media(max-width:1280px){
+    .left{
+        top: 90px;
+    }
+    .left input{
+        width: 200px !important;
+    }
+}
+@media(max-width:1230px){
+    .left input{
+        width: 170px !important;
+    }
+}
+@media(max-width:1173px){
+    .left input{
+        width: 150px !important;
+    }
+}
+@media(max-width:1150px){
+    .left input{
+        width: 130px !important;
+    }
+}
+@media(max-width:1130px){
+    .left input{
+        width: 120px !important;
+    }
+    .left .shift{
+        margin-left: 60px !important;
+    }
+}
+@media(max-width:999px){
+    .left{
+        display: none !important;
+    }
+}

@@ -16,6 +16,12 @@
     top: 0px;
     z-index: 500;
   }
+  .soft div{
+    display: none;
+  }
+  .click2 {
+    display: none !important;
+  }
   nav img {
     width: 150px;
   }

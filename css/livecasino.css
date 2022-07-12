@@ -121,6 +121,12 @@
     font-size: 16px;
     padding: 16px 32px;
   }
+  .soft div{
+    display: none;
+  }
+  .click2 {
+    display: none !important;
+  }
   .main{
     margin-top: 15px;
   }

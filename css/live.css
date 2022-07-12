@@ -11,7 +11,7 @@
   nav {
     background-color: #373A45;
     margin-top: -5px;
-    width: 100%;
+    width: 100% !important;
     position: fixed !important;
     top: 0px;
     z-index: 500;
@@ -65,7 +65,7 @@
     border-top-right-radius: 4px;
   }
   .right{
-    width: 24.2%;
+    width: 322;
     height: 3094px;
     position: absolute;
     right: 1.2%;

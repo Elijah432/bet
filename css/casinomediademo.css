@@ -1,0 +1,37 @@
+@media(max-width:1280px){
+    .love #demo{
+        display: none;
+    }
+    #demo2{
+        display: inherit !important;
+    }
+    .flow{
+        width:96.8%;
+    }
+}
+@media(max-width:999px){
+    #demo2{
+        margin-left: 9px !important;
+    }
+    .flow{
+        margin-left: 9px !important;
+    }
+}
+@media(max-width:700px){
+    #demo2{
+        margin-left: 5px !important;
+    }
+    .flow{
+        margin-left: 5px !important;
+    }
+}
+@media(max-width:500px){
+    #demo2{
+        margin-left: 0px !important;
+    }
+    .flow{
+        margin-left: 0px !important;
+    }
+}
+
+
