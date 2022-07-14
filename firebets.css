@@ -1,0 +1,269 @@
+
+@import url(./bootstrap.css);
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap');
+            /* ...Archivo Black Font...or Roboto */
+
+html, body{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+
+    background-color: black;
+    /* font-family: Arial, Helvetica, sans-serif; */
+}
+
+    /* <!-- ...<<<HEADDD>>>... --> */
+
+.faya_eehdd {
+    width: 100%;
+    height: 44px;
+    background-color: #31353E;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+    .faya_eehdd .kowonpo{
+        width: 130px;
+        height: 100%;
+
+        /* border: 1px solid rgb(255, 0, 119); */
+
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+        .faya_eehdd #ninn{
+            width: 29px;
+            height: 18px;
+            border-radius: 5px;
+        }
+        .faya_eehdd .w_fayah{
+            width: 75px;
+            height: 19px;
+            /* border: 1px solid red; */
+
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: 17.5px;
+            color: #ffe700;
+            font-weight: 600;
+            text-decoration: wavy;
+
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        } 
+        .faya_eehdd #fayahhh{
+            width: 16px;
+            height: 16px;
+        }
+    
+
+.faya_eehdd_zwich {
+    width: 100%;
+    height: 44px;
+    background-color: #1B1D21;
+    border-bottom: 2px solid #007E33;
+}
+
+.faya_eehdd_torrpp {
+    width: 100%;
+    height: 26px;
+    padding: 6px 0px;
+    background-color: #272930;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    color: #7ae7b3;
+    font-weight: 600;
+}
+    /* .faya_eehdd_torrpp */
+
+.faya_eehdd_torrpp_2 {
+    width: 100%;
+    height: 26px;
+    padding: 6px 0px;
+    background-color: #1B1D21;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    /* padding-left: 25px; */
+}
+    .faya_eehdd_torrpp_2 .turp_lhef {
+        width: 195px;
+        height: 14px;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 12px;
+        color: #bcbcbc;
+        font-weight: 400;
+
+        padding-left: 10px;
+        /* border: 1px solid yellow; */
+    }
+    .faya_eehdd_torrpp_2 .turp_ryyhi {
+        width: 305px;
+        height: 14px;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 12px;
+        color: #bcbcbc;
+        font-weight: 400;
+
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        /* border: 1px solid yellow; */
+    }
+
+    /* <!-- ...<<<MIDWAY>>>... --> */
+
+.baskkettt {
+    width: 100%;
+    height: 990px;
+    background-color: black;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+    .baskkettt .ohll_baskkk {
+        width: 500px;
+        height: 990px;
+        /* border: 1px solid red; */
+
+        background-color: #272930;
+    }   
+        .baskkettt .ohll_baskkk #aa1 {
+            width: 500px;
+            height: 66px;
+            border-bottom: 1px solid #1B1D21;
+            padding: 0px 10px;
+
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+            .ohll_baskkk #aa1 div {
+                width: 185px;
+                height: 48px;
+                /* border: 1px solid blue; */
+
+                display: flex;
+                align-items: center;
+                justify-content: center;
+            }
+                .ohll_baskkk #aa1 div #allyy {
+                    width: 21px;
+                    height: 14px;
+                    margin: 0px 5px 1px 0px;
+
+                    font-family: Arial, Helvetica, sans-serif;
+                    font-size: 12px;
+                    color: white;
+                    font-weight: 400;
+                    /* border: 1px solid blue; */
+                }
+                .ohll_baskkk #aa1 div #allyy_2 {
+                    width: 159px;
+                    height: 14px;
+                    margin: 0px 0px 1px 0px;
+
+                    font-family: Arial, Helvetica, sans-serif;
+                    font-size: 12px;
+                    color: white;
+                    font-weight: 400;
+                    /* border: 1px solid rgb(255, 89, 0); */
+                }
+            .ohll_baskkk #aa1 .roww_piiek {
+                width: 295px;
+                height: 48px;
+                /* border: 1px solid rgb(161, 251, 7); */
+
+                display: flex;
+                align-items: center;
+                justify-content: space-between;
+                
+            }
+                #aa1 .roww_piiek #zzarra {
+                    width: 51px;
+                    height: 48px;
+                    background-color: #007e33;
+                    border-radius: 5px;
+
+                    /* display: block;
+                    align-items: center;
+                    justify-content: center; */
+                }
+                    #aa1 .roww_piiek #zzarra {
+                        width: 51px;
+                        height: 48px;
+
+                        display: block;
+                        align-items: center;
+                        justify-content: center;
+                    }
+                    /* #aa1 .roww_piiek #zzarra .zzee {} */
+                        #aa1 .roww_piiek #zzarra .yyy0,
+                        #aa1 .roww_piiek #zzarra .yyy1 {
+                            width: 100%;
+                            height: 17px;
+
+                            display: flex;
+                            align-items: center;
+                            justify-content: center;
+
+                            font-family: Arial, Helvetica, sans-serif;
+                            font-size: 14px;
+                            color: white;
+                            font-weight: 400;
+                        }
+                        /* #aa1 .roww_piiek #zzarra div .yyy1 {
+                            width: 100%;
+                            height: 17px;
+
+                            display: flex;
+                            align-items: center;
+                            justify-content: center;
+
+                            font-family: Arial, Helvetica, sans-serif;
+                            font-size: 14px;
+                            color: white;
+                            font-weight: 400;
+                        } */
+                        #aa1 .roww_piiek #zzarra .yyy2 {
+                            width: 100%;
+                            height: 14px;
+
+                            display: flex;
+                            align-items: center;
+                            justify-content: center;
+
+                            font-family: Arial, Helvetica, sans-serif;
+                            font-size: 10px;
+                            color: #45e686;
+                            font-weight: 400;
+                        }
+    /* <!-- ...<<<BASSEE>>>... --> */
+
+.fhut_bazz {
+    width: 100%;
+    height: 76px;
+    background-color: #31353E;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+
+    /* position: absolute;
+    bottom: 0px; */
+}
+    .fhut_bazz img {
+        width: 90px;
+        height: 36px;
+        /* background-color: #31353E; */
+    }

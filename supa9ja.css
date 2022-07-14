@@ -1,0 +1,630 @@
+
+@import url(./bootstrap.css);
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap');
+            /* ...Archivo Black Font...or Roboto */
+
+html, body{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+
+    background-image: repeating-linear-gradient(90deg, #363A43 20%, #424650 20%, #545864 20%, #595D69 20%);
+    /* font-family: Arial, Helvetica, sans-serif; */
+}
+
+/* Nav By Elijah */
+
+body {
+    background-color: black;
+}  
+nav {
+    background-color: #373A45;
+    margin-top: -5px;
+}
+nav img {
+    width: 150px;
+}
+nav a {
+    color: white !important;
+}
+nav a:hover {
+    color: #FFCD00 !important;
+}
+nav a:active {
+    color: #FFCD00 !important;
+}
+nav button {
+    margin-top: 6px;
+    border: none;
+    font-size: 12px;
+    padding: 5px 20px 7px 20px;
+    background-color: #0D7B3C;
+    color: white;
+    border-radius: 3px;
+}
+
+/* ... */
+
+/* Starting... */
+
+.eeddd_lynnne {
+    width: 100%;
+    height: 45px;
+    padding: 15px 15px;
+    background-attachment: #1E2128;
+    border-bottom: 1px solid silver;
+    display: flex;
+}
+
+    .eeddd_lynnne .aaa  {
+        /* background-color: aqua; */
+        width: 130px;
+        height: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        border-right: 1px solid #ffffff80; 
+    }
+        .eeddd_lynnne .aaa div {
+            /* background-color: yellow; */
+            width: 115px;
+            height: 15px;
+            font-family: Arial, Helvetica, sans-serif;
+            color: #ffffff80;
+            font-size: 12.5px;
+            font-weight: 400;  
+            /* line-height: -1px; */
+        }
+    .eeddd_lynnne .bbb  {
+        /* background-color: aqua; */
+        width: 380px;
+        height: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+        .eeddd_lynnne .bbb .bbb_rhiij {
+            /* background-color: rgba(255, 8, 0, 0.846); */
+            width: 379px;
+            height: 15px;
+            display: flex;
+            align-items: center;
+            justify-content: space-around;
+        }
+            .eeddd_lynnne .bbb .bbb_rhiij div {
+                /* background-color: yellow; */
+                font-family: Arial, Helvetica, sans-serif;
+                color: #ffffff80;
+                font-size: 12.5px;
+                font-weight: 400;  
+            }
+        .eeddd_lynnne .bbb_rhiij #riiilggg {
+            color: white;
+        }
+    .eeddd_lynnne .ccc {
+        height: 100%;
+        width: 860px;
+        /* border: 1px solid silver; */
+    }
+
+.konnttei_ihem {
+    width: 100%;
+    height: 491px;
+    background-image: url(./imagezniconz/home_banner-03.jpg);
+    background-position: center;
+    /* padding: 45px 0px 43px 50px; */
+    display: flex;
+    position: relative;
+}
+
+    .konnttei_ihem .herriia_1 {
+        /* background-color: cornflowerblue; */
+        width: 50%;
+        height: 100%;
+        padding: 45px 0px 43px 50px; 
+    }
+        
+        .konnttei_ihem .herriia_1 #wyyiinn {
+            font-family: 'Roboto', sans-serif;
+            color: #ffda00;
+            font-size: 39px;
+            font-weight: 700;
+            letter-spacing: 4px;
+        }
+
+        .konnttei_ihem .herriia_1 .wynny_11111 {
+            width: 610px;
+            height: 94px;
+            margin: 20px 0px 35px;
+            /* display: block; */
+        }
+            .konnttei_ihem .herriia_1 .wynny_11111 p {
+                width: 610px;
+                height: 28px;
+                font-family: 'Roboto', sans-serif;
+                color: #fbfbfb;
+                font-size: 24px;
+                font-weight: 600;
+                letter-spacing: 2px;
+            }
+                .herriia_1 .wynny_11111 #wynny_a,
+                .herriia_1 .wynny_11111 #wynny_b {
+                    /* margin-top: -5px; */
+                }
+        
+        .konnttei_ihem .herriia_1 button {
+            width: 220px;
+            height: 70px;
+            background-color: #ffda00;
+            border: none;
+            outline: none;
+            border-radius: 5px;
+            border-bottom: 3px solid silver;
+            font-family: 'Roboto', sans-serif;
+            color: #312B35;
+            font-size: 24px;
+            font-weight: 600;
+        }
+
+    
+    /* .konnttei_ihem .herriia_2 {
+        background-color: cornflowerblue;
+        width: 50%;
+        height: 100%;
+    } */       
+
+        .konnttei_ihem .herriia_2 .kazin {
+            background-color: #ff730000;
+                        
+            width: 100px;
+            height: 100px;
+            border-top: 100px solid #ffda00;
+            border-left: 100px solid transparent;
+
+            position: absolute;
+            top: 0px;
+            right: 0px;
+        }
+            .konnttei_ihem .herriia_2 .b {
+                font-family: 'Roboto', sans-serif;
+                color: #312B35;
+                font-size: 15px;
+                font-weight: bolder;
+
+                /* display: flex;
+                align-items: center;
+                justify-content: center; */
+
+                position: absolute;
+                top: 15px;
+                right: 0px;
+
+                /* z-index: 111; */
+
+                transform: rotate(45deg);
+            }
+
+                .konnttei_ihem .herriia_2 .b #phaoo_1 {
+                    display: flex;
+                    align-items: center;
+                    justify-content: center;
+                } 
+                .konnttei_ihem .herriia_2 .b #phaoo_2 {
+                    display: flex;
+                    align-items: center;
+                    justify-content: center;
+                } 
+
+.opznn_kkhhaarz {
+    width: 100%;
+    height: 150px;
+    background-color: #32353D;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+    .opznn_kkhhaarz .aa,
+    .opznn_kkhhaarz .bb,
+    .opznn_kkhhaarz .cc {
+        width: 430px;
+        height: 130px;
+        background-color: #51555e;
+        border-radius: 5px;
+        padding: 15px;
+        /* display: flex;
+        align-items: center;
+        justify-content: center; */
+    }
+        .opznn_kkhhaarz .aa .aa_1,
+        .opznn_kkhhaarz .aa .aa_2,
+
+        .opznn_kkhhaarz .bb .bb_1,
+        .opznn_kkhhaarz .bb .bb_2,
+
+        .opznn_kkhhaarz .cc .cc_1,
+        .opznn_kkhhaarz .cc .cc_2 {
+            /* background-color: #856a00a7; */
+            width: 400px;
+            height: 50px;
+            border-radius: 5px;
+        }
+            .opznn_kkhhaarz .aa .aa_1,
+
+            .opznn_kkhhaarz .bb .bb_1,
+
+            .opznn_kkhhaarz .cc .cc_1 {
+                display: flex !important;
+                align-items: center !important;
+                justify-content: center !important;
+
+                position: relative;
+            }
+                .opznn_kkhhaarz .aa .aa_1 img,
+                /* .opznn_kkhhaarz .bb .bb_1 img, */
+                .opznn_kkhhaarz .cc .cc_1 img {
+                    width: 51.5px;
+                    height: 51.5px;
+                    background-color: #209A47;
+                    border-radius: 50%;
+                    border: 2px solid #3BAF60;
+                }
+                    .opznn_kkhhaarz .aa .aa_1 span,
+                    /* .opznn_kkhhaarz .bb .bb_1 img, */
+                    .opznn_kkhhaarz .cc .cc_1 span {
+                        font-family: Arial, Helvetica, sans-serif;
+                        font-size: 25px;
+                        color: #209a47;
+                        font-weight: 900;
+
+                        position: absolute;
+                        top: 0px;
+                        left: 0px;
+                    }
+
+                        .opznn_kkhhaarz .bb .bb_1 .bb_111 {
+                            font-family: Arial, Helvetica, sans-serif;
+                            font-size: 14.5px;
+                            color: white;
+                            font-weight: 800;
+                            letter-spacing: 2px;
+                            /* border: 2px solid white;
+                            width: 30px;
+                            height: 25px;
+                            border-radius: 5px; */
+
+                            width: 51.5px;
+                            height: 51.5px;
+                            background-color: #209A47;
+                            border-radius: 50%;
+                            border: 2px solid #3BAF60;
+
+                            display: flex;
+                            align-items: center;
+                            justify-content: center; 
+                        }
+                            .opznn_kkhhaarz .bb .bb_1 span {
+                                font-family: Arial, Helvetica, sans-serif;
+                                font-size: 25px;
+                                color: #209a47;
+                                font-weight: 900;
+
+                                position: absolute;
+                                top: 0px;
+                                left: 0px;
+                            }
+                
+            .opznn_kkhhaarz .aa .aa_2 .aa_22a,
+            .opznn_kkhhaarz .bb .bb_2 .bb_22a,
+            .opznn_kkhhaarz .cc .cc_2 .cc_22a {
+                width: 100%;
+                height: 23px;
+                font-family: Arial, Helvetica, sans-serif;
+                font-size: 15.5px;
+                color: #209a47;
+                font-weight: 800;
+                letter-spacing: 1px;
+
+                display: flex;
+                align-items: center;
+                justify-content: center;
+            }
+
+            .opznn_kkhhaarz .aa .aa_2 .aa_22b,
+            .opznn_kkhhaarz .bb .bb_2 .bb_22b,
+            .opznn_kkhhaarz .cc .cc_2 .cc_22b {
+                width: 100%;
+                height: 14px;
+                margin-top: 3px;
+                font-family: Arial, Helvetica, sans-serif;
+                font-size: 11px;
+                color: white;
+                letter-spacing: 1.15px;
+                /* line-height: 0.15px;
+                font-weight: 800;
+                letter-spacing: 1px; */
+
+                display: flex;
+                align-items: center;
+                justify-content: center;
+            }
+
+
+.rhhaundd {
+    width: 100%;
+    height: 35px;
+    padding: 8px 0px 8px 10px;
+    background-color: #51555e;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    color: white;
+    font-weight: 600;
+}
+
+.pppleeei_phishr {
+    width: 100%;
+    height: 270px;
+    padding: 10px 5px;
+    background-color: white;
+    /* border: 1px solid #373A45; */
+    
+}
+            .pppleeei_phishr .thorp {
+                margin-bottom: 10px;
+            }
+    .pppleeei_phishr .thorp,
+    .pppleeei_phishr .bhhorp {
+        width: 100%;
+        height: 120px;
+
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+
+        .pppleeei_phishr .thorp .aaaaa,
+        .pppleeei_phishr .thorp .bbbbb,
+        .pppleeei_phishr .thorp .ccccc,
+
+        .pppleeei_phishr .bhhorp .ddddd,
+        .pppleeei_phishr .bhhorp .eeeee,
+        .pppleeei_phishr .bhhorp .fffff {
+            width: 430px;
+            height: 100%;
+            background-color: #cedae68b;
+            border: 1px solid #2d3f7e9e;
+            border-radius: 5px;
+            padding-top: 15px;
+            padding-bottom: 10px;
+        }
+
+            .thorp .aaaaa,
+            .thorp .bbbbb,
+            .thorp .ccccc, 
+            
+            .bhhorp .ddddd,
+            .bhhorp .eeeee,
+            .bhhorp .fffff {
+                display: flex;
+                /* align-items: center;
+                justify-content: center; */
+            }
+                .thorp .aaaaa .homeee,
+                .thorp .bbbbb .homeee,
+                .thorp .ccccc .homeee,
+
+                .bhhorp .ddddd .homeee,
+                .bhhorp .eeeee .homeee,
+                .bhhorp .fffff .homeee {
+                    width: 48%;
+                    height: 100%;
+                }
+                    .thorp .aaaaa .homeee .eemjj_pik,
+                    .thorp .bbbbb .homeee .eemjj_pik,
+                    .thorp .ccccc .homeee .eemjj_pik,
+
+                    .bhhorp .ddddd .homeee .eemjj_pik,
+                    .bhhorp .eeeee .homeee .eemjj_pik,
+                    .bhhorp .fffff .homeee .eemjj_pik {
+                        /* border: 0.5px solid black; */
+                        width: 100%;
+                        height: 60%;
+
+                        display: flex;
+                        align-items: center;
+                        justify-content: center;
+                    }
+                        .thorp .aaaaa .homeee .eemjj_pik img,
+                        .thorp .bbbbb .homeee .eemjj_pik img,
+                        .thorp .ccccc .homeee .eemjj_pik img,
+
+                        .bhhorp .ddddd .homeee .eemjj_pik img,
+                        .bhhorp .eeeee .homeee .eemjj_pik img,
+                        .bhhorp .fffff .homeee .eemjj_pik img {
+                            /* border: 0.5px solid black; */
+                            width: 55px;
+                            height: 50px;
+                        }
+                    .thorp .aaaaa .homeee .hemptii,
+                    .thorp .bbbbb .homeee .hemptii,
+                    .thorp .ccccc .homeee .hemptii,
+
+                    .bhhorp .ddddd .homeee .hemptii,
+                    .bhhorp .eeeee .homeee .hemptii,
+                    .bhhorp .fffff .homeee .hemptii {
+                        /* border: 0.5px solid black; */
+                        width: 100%;
+                        height: 15%;
+                    }
+                    .thorp .aaaaa .homeee .klurr_naim,
+                    .thorp .bbbbb .homeee .klurr_naim,
+                    .thorp .ccccc .homeee .klurr_naim,
+
+                    .bhhorp .ddddd .homeee .klurr_naim,
+                    .bhhorp .eeeee .homeee .klurr_naim,
+                    .bhhorp .fffff .homeee .klurr_naim {
+                        /* border: 0.5px solid black; */
+                        width: 100%;
+                        height: 15%;
+
+                        font-family: Arial, Helvetica, sans-serif;
+                        font-size: 11px;
+                        color: #42464c;
+                        letter-spacing: 0.5px;
+
+                        display: flex;
+                        align-items: center;
+                        justify-content: center;
+                    }
+
+                .thorp .aaaaa .vars,
+                .thorp .bbbbb .vars,
+                .thorp .ccccc .vars,
+                
+                .bhhorp .ddddd .vars,
+                .bhhorp .eeeee .vars,
+                .bhhorp .fffff .vars {
+                    width: 4%;
+                    height: 100%;
+                }
+                    .thorp .aaaaa .vars .vaarzz_v,
+                    .thorp .bbbbb .vars .vaarzz_v,
+                    .thorp .ccccc .vars .vaarzz_v,
+                    
+                    .bhhorp .ddddd .vars .vaarzz_v,
+                    .bhhorp .eeeee .vars .vaarzz_v,
+                    .bhhorp .fffff .vars .vaarzz_v {
+                        /* border: 0.5px solid black; */
+                        width: 100%;
+                        height: 87%;
+                        /* padding-top: 10px; */
+                        display: flex;
+                        align-items: center;
+                        justify-content: center;
+                    }
+                    .thorp .aaaaa .vars .hheemmpt,
+                    .thorp .bbbbb .vars .hheemmpt,
+                    .thorp .ccccc .vars .hheemmpt,
+                    
+                    .bhhorp .ddddd .vars .hheemmpt,
+                    .bhhorp .eeeee .vars .hheemmpt,
+                    .bhhorp .fffff .vars .hheemmpt {
+                        /* border: 0.5px solid black; */
+                        width: 100%;
+                        height: 3%;
+                    } 
+        
+                .thorp .aaaaa .awayyy,
+                .thorp .bbbbb .awayyy,
+                .thorp .ccccc .awayyy,
+                
+                .bhhorp .ddddd .awayyy,
+                .bhhorp .eeeee .awayyy,
+                .bhhorp .fffff .awayyy {
+                    width: 48%;
+                    height: 100%;
+                }
+                    .thorp .aaaaa .awayyy .eemjj_pik,
+                    .thorp .bbbbb .awayyy .eemjj_pik,
+                    .thorp .ccccc .awayyy .eemjj_pik,
+                    
+                    .bhhorp .ddddd .awayyy .eemjj_pik,
+                    .bhhorp .eeeee .awayyy .eemjj_pik,
+                    .bhhorp .fffff .awayyy .eemjj_pik {
+                        /* border: 0.5px solid black; */
+                        width: 100%;
+                        height: 60%;
+
+                        display: flex;
+                        align-items: center;
+                        justify-content: center;
+                    }
+                        .thorp .aaaaa .awayyy .eemjj_pik img,
+                        .thorp .bbbbb .awayyy .eemjj_pik img,
+                        .thorp .ccccc .awayyy .eemjj_pik img,
+
+                        .bhhorp .ddddd .awayyy .eemjj_pik img,
+                        .bhhorp .eeeee .awayyy .eemjj_pik img,
+                        .bhhorp .fffff .awayyy .eemjj_pik img {
+                            /* border: 0.5px solid black; */
+                            width: 55px;
+                            height: 50px;
+                        }
+                    .thorp .aaaaa .awayyy .hemptii,
+                    .thorp .bbbbb .awayyy .hemptii,
+                    .thorp .ccccc .awayyy .hemptii,
+                    
+                    .bhhorp .ddddd .awayyy .hemptii,
+                    .bhhorp .eeeee .awayyy .hemptii,
+                    .bhhorp .fffff .awayyy .hemptii {
+                        /* border: 0.5px solid black; */
+                        width: 100%;
+                        height: 15%;
+                    }
+                    .thorp .aaaaa .awayyy .klurr_naim,
+                    .thorp .bbbbb .awayyy .klurr_naim,
+                    .thorp .ccccc .awayyy .klurr_naim,
+                    
+                    .bhhorp .ddddd .awayyy .klurr_naim,
+                    .bhhorp .eeeee .awayyy .klurr_naim,
+                    .bhhorp .fffff .awayyy .klurr_naim {
+                        /* border: 0.5px solid black; */
+                        width: 100%;
+                        height: 15%;
+
+                        font-family: Arial, Helvetica, sans-serif;
+                        font-size: 11px;
+                        color: #42464c;
+                        letter-spacing: 0.5px;
+
+                        display: flex;
+                        align-items: center;
+                        justify-content: center;
+                    }
+                
+
+    /* ...Elijah's... */
+
+.footter {
+    /* margin-top: 66px; */
+}
+.footter a {
+    color: #31A554;
+    font-size: 12px;
+}
+.footter a:hover {
+    color: white;
+    text-decoration: none;
+}
+.left2 {
+    width: 1165px;
+    height: 270px;
+    background-color: #37444E;
+    border-top: 4px solid #31A554;
+}
+.right2{
+    width: 230px;
+    height: 270px;
+    background-color: #3D434E;
+    border-top: 4px solid red;
+}
+
+    /* <!-- ...####.... --> */
+
+
+/* .prak {
+    width: 100px;
+    height: 100px;
+    border-top: 100px solid yellow;
+    border-left: 100px solid transparent;
+
+    background-color: rgba(255, 0, 0, 0.028);
+    margin-left: 100px;
+    font-family: 'Roboto', sans-serif;
+    color: #312B35;
+    font-size: 15px;
+    font-weight: 900;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+} */

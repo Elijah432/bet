@@ -1,0 +1,1100 @@
+
+@import url(./bootstrap.css);
+
+html, body{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+
+    background-image: repeating-linear-gradient(90deg, #30343c 20%, #3b3d44 20%, #464952 20%, #4b4e58 20%);
+    /* font-family: Arial, Helvetica, sans-serif; */
+}
+
+/* Nav By Elijah */
+
+body {
+    background-color: black;
+}  
+nav {
+    background-color: #373A45;
+    margin-top: -5px;
+    /* position: fixed !important;
+    top: 0px;
+    width: 100% !important; */
+}
+nav img {
+    width: 150px;
+}
+nav a {
+    color: white !important;
+}
+nav a:hover {
+    color: #FFCD00 !important;
+}
+nav a:active {
+    color: #FFCD00 !important;
+}
+nav button {
+    margin-top: 6px;
+    border: none;
+    font-size: 12px;
+    padding: 5px 20px 7px 20px;
+    background-color: #0D7B3C;
+    color: white;
+    border-radius: 3px;
+}
+
+/* ... */
+
+/* <-- Continuation Mid --> */
+.scr_topb {
+    height: 40px;
+    min-width: 1290px;
+    display: flex;
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    /* font-size: 14px; */
+
+}
+
+    #ahanddd {
+        height: 40px;
+        width: 35px;
+        background-color: white;
+        font-size: 17px;
+        font-weight: 100;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        color: #696e77;
+    }
+        .scr_topb .bundz {
+            height: 100%;
+            width: 155px;
+            background-color: #2DA050
+            /* font-family: Arial, Helvetica, sans-serif; */
+            /* font-size: 14px; */
+
+        }
+            .scr_topb .bundz #bahkgr {
+                margin: 10px 15px;
+                height: 20px;
+                width: 125px;
+                background-color: white;
+                /* background-color: #2DA050; */
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                
+
+            }
+                .scr_topb .bundz #bahkgr img {
+                    margin-right: 2.5px;
+                    height: 15px;
+                    width: 15px;
+                    /* background-color: white; */
+                }
+                .scr_topb .bundz #bahkgr .klorb_naim {
+                    font-family: Arial, Helvetica, sans-serif;
+                    font-size: 14px;
+                    font-weight: 800;
+
+                }
+
+        .scr_topb .huerroll {
+            height: 100%;
+            width: 145px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            /* padding: 10px 5px; */
+
+        }
+            /* .scr_topb .huerroll #bahkgr {
+                margin: 10px 5px;
+                height: 20px;
+                width: 135px;
+                background-color: white;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                
+
+            } */
+                .scr_topb .huerroll img {
+                    margin-right: 5px;
+                    height: 20px;
+                    width: 20px;
+                    background-color: transparent;
+                    border: 1.5px solid black;
+                    border-radius: 50%;
+
+                }
+                .scr_topb .huerroll .klorb_naim {
+                    font-family: Arial, Helvetica, sans-serif;
+                    font-size: 15px;
+                    font-weight: 400;
+
+                }
+        .scr_topb .huerroll:hover {
+            background-color: #2DA050;
+            color: white;
+        }
+
+        .scr_topb .huerroll_2 {
+            height: 100%;
+            width: 160px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            /* padding: 10px 5px; */
+
+        }
+            .scr_topb .huerroll_2 img {
+                margin-right: 5px;
+                height: 20px;
+                width: 20px;
+                background-color: transparent;
+                border: 1.5px solid black;
+                border-radius: 50%;
+            }
+            .scr_topb .huerroll_2 .klorb_naim {
+                font-family: Arial, Helvetica, sans-serif;
+                font-size: 15px;
+                font-weight: 400;
+            }
+        .scr_topb .huerroll_2:hover {
+            background-color: #2DA050;
+            color: white;
+        }
+
+        .scr_topb .huerroll_3 {
+            height: 100%;
+            width: 130px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            /* padding: 10px 5px; */
+
+        }
+            .scr_topb .huerroll_3 img {
+                margin-right: 5px;
+                height: 20px;
+                width: 20px;
+                background-color: transparent;
+                border: 1.5px solid black;
+                border-radius: 50%;
+            }
+            .scr_topb .huerroll_3 .klorb_naim {
+                font-family: Arial, Helvetica, sans-serif;
+                font-size: 15px;
+                font-weight: 400;
+            }
+        .scr_topb .huerroll_3:hover {
+            background-color: #2DA050;
+            color: white;
+        }
+
+        .scr_topb .huerroll_4 {
+            height: 100%;
+            width: 140px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            /* padding: 10px 5px; */
+
+        }
+            .scr_topb .huerroll_4 img {
+                margin-right: 5px;
+                height: 20px;
+                width: 20px;
+                background-color: transparent;
+                border: 1.5px solid black;
+                border-radius: 50%;
+            }
+            .scr_topb .huerroll_4 .klorb_naim {
+                font-family: Arial, Helvetica, sans-serif;
+                font-size: 14px;
+                font-weight: 400;
+                /* text-transform: uppercase; */
+            }
+        .scr_topb .huerroll_4:hover {
+            background-color: #2DA050;
+            color: white;
+        }
+
+        .scr_topb .huerroll_5 {
+            height: 100%;
+            width: 140px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            /* padding: 10px 5px; */
+
+        }
+            .scr_topb .huerroll_5 img {
+                margin-right: 5px;
+                height: 20px;
+                width: 20px;
+                background-color: transparent;
+                border: 1.5px solid black;
+                border-radius: 50%;
+            }
+            .scr_topb .huerroll_5 .klorb_naim {
+                font-family: Arial, Helvetica, sans-serif;
+                font-size: 14px;
+                font-weight: 400;
+                /* text-transform: uppercase; */
+            }
+        .scr_topb .huerroll_5:hover {
+            background-color: #2DA050;
+            color: white;
+        }
+
+        .scr_topb .huerroll_6 {
+            height: 100%;
+            width: 130px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            /* padding: 10px 5px; */
+
+        }
+            .scr_topb .huerroll_6 img {
+                margin-right: 5px;
+                height: 20px;
+                width: 20px;
+                background-color: transparent;
+                border: 1.5px solid black;
+                border-radius: 50%;
+            }
+            .scr_topb .huerroll_6 .klorb_naim {
+                font-family: Arial, Helvetica, sans-serif;
+                font-size: 14px;
+                font-weight: 400;
+                /* text-transform: uppercase; */
+            }
+        .scr_topb .huerroll_6:hover {
+            background-color: #2DA050;
+            color: white;
+        }
+
+        .scr_topb .huerroll_7 {
+            height: 100%;
+            width: 165px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            /* padding: 10px 5px; */
+
+        }
+            .scr_topb .huerroll_7 img {
+                margin-right: 5px;
+                height: 20px;
+                width: 20px;
+                background-color: transparent;
+                border: 1.5px solid black;
+                border-radius: 50%;
+            }
+            .scr_topb .huerroll_7 .klorb_naim {
+                font-family: Arial, Helvetica, sans-serif;
+                font-size: 14px;
+                font-weight: 400;
+            }
+        .scr_topb .huerroll_7:hover {
+            background-color: #2DA050;
+            color: white;
+        }
+
+        .scr_topb .huerroll_8 {
+            height: 100%;
+            width: 145px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            /* padding: 10px 5px; */
+
+        }
+            .scr_topb .huerroll_8 img {
+                margin-right: 5px;
+                height: 20px;
+                width: 20px;
+                background-color: transparent;
+                border: 1.5px solid black;
+                border-radius: 50%;
+            }
+            .scr_topb .huerroll_8 .klorb_naim {
+                font-family: Arial, Helvetica, sans-serif;
+                font-size: 14px;
+                font-weight: 400;
+            }
+        .scr_topb .huerroll_8:hover {
+            background-color: #2DA050;
+            color: white;
+        }
+
+.conte_containaa {
+    margin-top: 10px;
+    display: flex;
+
+}
+
+    .conte_containaa .leff_sydd {
+        /* height: 805px; */
+        background-color: #21253177;
+        height: 843px;
+        width: 1065px;
+        margin-right: 10px;
+    }
+        .leff_sydd .skrn_area {
+            height: 403px;
+            width: 100%;
+        }
+
+            .leff_sydd .skrn_area .arriaa_a {
+                width: 100%;
+                height: 323px;
+                display: flex;
+            }
+                .skrn_area .arriaa_a .knorn_Kormetri {
+                    width: 505px;
+                    height: 100%;
+                    background-color: #b1b1b1;
+                    display: flex;
+                    align-items: center;
+                    justify-content: center;
+                }
+                    .skrn_area .arriaa_a .knorn_Kormetri img {
+                        width: 315px;
+                        height: 155px;
+                        border-radius: 5px;
+                        box-shadow: rgba(17, 17, 26, 0.1) 0px 8px 24px, rgba(17, 17, 26, 0.1) 0px 16px 56px, rgba(17, 17, 26, 0.1) 0px 24px 80px;
+                    }
+                .skrn_area .arriaa_a .khurmetrii {
+                    width: 560px;
+                    height: 100%;
+                    background-color: white;
+                }
+                    .arriaa_a .khurmetrii .eeddaa {
+                        width: 100%;
+                        height: 35px;
+                        display: flex;
+                        align-items: center;
+                        justify-content: center;
+                    }
+                        .arriaa_a .khurmetrii .eeddaa div {
+                            width: 120px;
+                            height: 35px;
+                            display: flex;
+                            align-items: center;
+                            justify-content: center;
+                        }
+                            .arriaa_a .khurmetrii .eeddaa div img {
+                                margin-right: 10px;
+                                height: 31.5px;
+                                width: 27px;
+                                background-color: transparent;
+                                border: 2px solid rgb(101, 101, 101);
+                                border-radius: 50%;
+                            }
+                            .arriaa_a .khurmetrii .eeddaa div .sccyzzn_naiim {
+                                height: 30px;
+                                width: 80px;
+                                font-family: Arial, Helvetica, sans-serif;
+                                color: rgb(85, 85, 85);
+                                font-size: 12px;
+                                font-weight: 700;   
+                                line-height: 12px; 
+                                /* border: 1px solid rgb(0, 0, 0); */
+                                display: block;
+                            }
+
+                    .arriaa_a .khurmetrii .lyysst {
+                        width: 100%;
+                        height: 288px;
+                        /* border: 0.5px solid yellow; */
+                    }
+                        .arriaa_a .khurmetrii .marpleei_1 {
+                            height: 36px;
+                            width: 100%;
+                            /* border: 0.5px solid black; */
+                            display: flex;
+                        }
+                            .khurmetrii .marpleei_1 #aa {
+                                height: 100%;
+                                width: 30px;
+                                background-color: white;
+                                color: #298C47;
+                                font-size: 23px;
+                                display: flex;
+                                align-items: center;
+                                justify-content: center;
+                            }
+                            .khurmetrii .marpleei_1 .fezzz_pllee {
+                                height: 100%;
+                                width: 490px;
+                                /* border: 0.5px solid black; */
+                                font-family: Arial, Helvetica, sans-serif;
+                                color: rgb(111, 111, 111);
+                                font-size: 11px;
+                                font-weight: 700;   
+                                line-height: 16px;
+                                /* margin-top: 3px;  */
+                            }
+                            .khurmetrii .marpleei_1 .rhezzzyy {
+                                height: 100%;
+                                width: 40px;
+                                /* border: 0.5px solid black;    */
+                                padding-right: 20px;                           
+                                display: block !important;
+                                align-items: center;
+                                justify-content: center;
+                            }
+                                /* .marpleei_1 .rhezzzyy .fa {
+                                    margin-bottom: 1px;
+                                    height: 15px;
+                                    width: 20px;
+                                    color: #298C47;
+                                    font-size: 16.5px;
+                                } */
+                                /* .marpleei_1 .rhezzzyy #bb,
+                                .marpleei_1 .rhezzzyy #cc {
+                                    margin-bottom: 1px;
+                                    height: 15px;
+                                    width: 20px;
+                                    color: #298C47;
+                                    font-size: 16.5px;
+                                } */
+            .leff_sydd .skrn_area .arriaa_b {
+                height: 55px;
+                width: 100%;
+                background-image: linear-gradient(#7b7a7a, #494949, #292929, #0E0E0E, black, black);
+                display: flex;
+            }
+                .skrn_area .arriaa_b .scizn {
+                    /* background-color: #03f45b; */
+                    height: 100%;
+                    width: 275px;
+                    display: flex;
+                    align-items: center;
+                    justify-content: center;
+                    margin-left: 205px;
+                }
+                    .skrn_area .arriaa_b .scizn img {
+                        margin-right: 5px;
+                        height: 41.5px;
+                        width: 35.5px;
+                        background-color: transparent;
+                        border: 2px solid white;
+                        border-radius: 50%;
+                    }
+                    .skrn_area .arriaa_b .scizn .scyzn_naiim {
+                        height: 30px;
+                        width: 90px;
+                        /* border: 1px solid silver; */
+                        font-family: Arial, Helvetica, sans-serif;
+                        color: white;
+                        font-size: 14px;
+                        font-weight: 600;   
+                        line-height: 13px;      
+                    }
+                .skrn_area .arriaa_b .peintt {
+                    /* background-color: #f403b4; */
+                    height: 100%;
+                    width: 195px;
+                    display: flex;
+                    align-items: center;
+                    justify-content: center;
+                }
+                    .arriaa_b .peintt .pee_kontain {
+                        width: 110px;
+                        height: 45px;
+                        /* background-color: #a1022a; */
+                        border-radius: 0% 100% 100% 0%;
+                        position: absolute;
+                        overflow: hidden;
+                    }
+                        .arriaa_b .peintt .pee_kontain::before {
+                            content: "";
+                            width: 120px;
+                            height: 55px;
+                            position: absolute;
+                            background: conic-gradient(red, 
+                                                     #fd004c, rgb(255, 25, 0), 
+                                                     rgb(255, 45, 0), rgb(255, 45, 0), rgb(255, 65, 0), 
+                                                     rgb(255, 85, 0), rgb(255, 105, 0), rgb(255, 125, 0), rgb(255, 145, 0),
+                                                     rgb(89, 89, 89), rgb(67, 67, 67), rgb(52, 52, 52), rgb(36, 36, 36), rgb(24, 24, 24), black, black,  black);
+                            
+                            top: -3px;
+                            left: -3px;
+                        }
+                        .arriaa_b .peintt .pee_kontain::after {
+                            content: "1:50";
+                            position: absolute;
+                            width: 102px;
+                            height: 39px;
+                            border-radius: 0% 100% 100% 0%;
+                            top: 3px;
+                            left: 3px;
+                            background-color: black;
+                            font-family: Arial, Helvetica, sans-serif;
+                            font-size: 22px;
+                            font-weight: 700;
+                            color:  rgb(255, 125, 0);
+                            letter-spacing: 7px;
+                            display: grid;
+                            place-items: center;
+                            /* content: "";
+                            width: 120px;
+                            height: 55px;
+                            position: absolute;
+                            background: conic-gradient(red, 
+                                                     #fd004c, rgb(255, 25, 0), 
+                                                     rgb(255, 45, 0), rgb(255, 45, 0), rgb(255, 65, 0), 
+                                                     rgb(255, 85, 0), rgb(255, 105, 0), rgb(255, 125, 0), rgb(255, 145, 0),
+                                                     black, black, black, black, black, black, black, black);
+                            
+                            top: -3px;
+                            left: -3px; */
+                        }
+                    /* .arriaa_b .peintt .meein_kontaina {
+                        width: 110px;
+                        height: 45px;
+                        display: flex;
+                        position: relative;
+                    }
+                        .peintt .meein_kontaina .kontaina_1 {
+                            width: 50%;
+                            height: 100%;
+                            background-color: transparent;
+                        }
+                        .peintt .meein_kontaina .kontaina_2 {
+                            width: 50%;
+                            height: 100%;
+                            background-image: linear-gradient(red, rgb(255, 25, 0), rgb(255, 45, 0), rgb(255, 45, 0), rgb(255, 65, 0), rgb(255, 85, 0), rgb(255, 105, 0), rgb(255, 125, 0), rgb(255, 145, 0));
+                            border-radius: 0% 100% 100% 0%;
+                        } */
+                .skrn_area .arriaa_b .orohh {
+                    /* background-color: #f48803; */
+                    height: 100%;
+                    width: 595px;
+                    color: rgb(255, 125, 0);
+                    font-family: Arial, Helvetica, sans-serif;
+                    font-size: 20px;
+                    font-weight: 700;
+                    /* line-height: 5px; */
+                    margin: 15px 0px 15px 10px;
+                    
+                }
+                
+            .leff_sydd .skrn_area .arriaa_c {
+                padding: 0px 15px;
+                height: 25px;
+                width: 100%;
+                background-image: linear-gradient(#7b7a7a, #494949, #292929, #0E0E0E, black, black);
+                display: flex;
+                align-items: center;
+                justify-content: space-between;
+                color: #bbbbbb;
+                font-size: 9px;
+            }
+                .skrn_area .arriaa_c .arriaa_caa {
+                    height: 15px;
+                    width: 15px;
+                    background-color: transparent;
+                    border: 1.5px solid white;
+                    border-radius: 50%;
+                    display: flex;
+                    align-items: center;
+                    justify-content: center;
+                    color: white;
+                }
+                    .skrn_area .arriaa_c #arriaa_cpk {
+                        background-color: #2B9A4C;
+                    }
+
+        .leff_sydd .marcc_oparea {
+            /* background-color: #71673f; */
+            height: 440px;
+            width: 100%;
+        }
+            .marcc_oparea .marcopp_heada {
+                height: 31px;
+                width: 100%;
+                /* background-color: #02A15C; */
+                border-top: 1px solid #D6D9DA;
+                display: flex;
+            }
+                .marcc_oparea .marcopp_heada .marcopp_hdanaim {
+                    height: 100%;
+                    width: 1025px;
+                    color: white;
+                    font-family: Arial, Helvetica, sans-serif;
+                    font-size: 16px;
+                    font-weight: 400;
+                    line-height: 16px;
+                    background-color: #02A15C; 
+                }
+                .marcc_oparea .marcopp_heada div {
+                    height: 100%;
+                    width: 40px;
+                    background-color: #D6D9DA;
+                    display: flex;
+                    align-items: center;
+                    justify-content: center;
+                }
+                    .marcc_oparea .marcopp_heada .fa {
+                        font-size: 20px;
+                        color: #02A15C;
+                        height: 17px;
+                        width: 17px;
+                        border-radius: 50%;
+                        background-color: white;
+                    }
+
+            .marcc_oparea .oppptnzz_hddd {
+                height: 45px;
+                width: 100%;
+                background-color: #F5F5F5;
+                display: flex;
+            }
+                .marcc_oparea .oppptnzz_hddd .a000 {
+                    height: 100%;
+                    width: 295px;
+                }
+
+                .marcc_oparea .oppptnzz_hddd .aaaa {
+                    height: 100%;
+                    width: 675px;
+                }
+                    .oppptnzz_hddd .aaaa .aaaa_1 {
+                        height: 50%;
+                        width: 675px;
+                        font-size: 13px;
+                        font-weight: bolder;
+                        color: rgb(54, 51, 51);
+                        display: flex;
+                        align-items: center;
+                        justify-content: space-between;
+                    }
+                        .aaaa .aaaa_1 .aaaa_11a {
+                            height: 100%;
+                            width: 200px;
+                            display: flex;
+                            align-items: center;
+                            justify-content: space-around;
+                        }
+                        .aaaa .aaaa_1 .aaaa_11b {
+                            height: 100%;
+                            width: 155px;
+                            display: flex;
+                            align-items: center;
+                            justify-content: space-around;
+                        }
+
+                    .oppptnzz_hddd .aaaa .aaaa_2 {
+                        height: 50%;
+                        width: 675px;
+                        font-size: 13.5px;
+                        font-weight: bolder;
+                        color: rgb(54, 51, 51);
+                        display: flex;
+                        align-items: center;
+                        justify-content: space-between;
+                    }
+                        .aaaa .aaaa_2 .aaaa_22a {
+                            height: 100%;
+                            width: 200px;
+                            display: flex;
+                            align-items: center;
+                            justify-content: space-around;
+                        }
+                        .aaaa .aaaa_2 .aaaa_22b {
+                            height: 100%;
+                            width: 155px;
+                            display: flex;
+                            align-items: center;
+                            justify-content: space-around;
+                            padding-left: 15px;
+                            padding-right: 10px;
+                        }
+                    
+            .boorthom_rhegg {
+                background-color: white;
+                margin-left: 5px;
+                margin-right: 5px;
+                margin-bottom: 2.5px;
+                height: 360px;
+                width: 1055px;
+            }
+
+            /* Multiple In 1! */
+
+                .boorthom_rhegg #borrkuh_op {
+                    width: 100%;
+                    height: 45px;
+                    border-bottom: 1px solid #9ca0a6;
+                    display: flex;
+                }
+                    .boorthom_rhegg .maarrhh1_aa .za,
+                        .boorthom_rhegg .maarrhh2_aa .ya,
+                        .boorthom_rhegg .maarrhh3_aa .xa,
+                        .boorthom_rhegg .maarrhh4_aa .wa,
+                        .boorthom_rhegg .maarrhh5_aa .va,
+                        .boorthom_rhegg .maarrhh6_aa .ua,
+                        .boorthom_rhegg .maarrhh7_aa .ta,
+                        .boorthom_rhegg .maarrhh8_aa .sa {
+                            /* background-color: #f45703; */
+                            height: 100%;
+                            width: 295px;
+                        }
+                            .maarrhh1_aa .za .zza_1,
+                                .maarrhh2_aa .ya .yya_1,
+                                .maarrhh3_aa .xa .xxa_1,
+                                .maarrhh4_aa .wa .wwa_1,
+                                .maarrhh5_aa .va .vva_1,
+                                .maarrhh6_aa .ua .uua_1,
+                                .maarrhh7_aa .ta .tta_1,
+                                .maarrhh8_aa .sa .ssa_1 {
+                                    height: 50%;
+                                    width: 295px;
+                                    font-size: 13px;
+                                    color: rgb(54, 51, 51);
+                                }
+                            .maarrhh1_aa .za .zza_2, 
+                                .maarrhh2_aa .ya .yya_2,
+                                .maarrhh3_aa .xa .xxa_2,
+                                .maarrhh4_aa .wa .wwa_2,
+                                .maarrhh5_aa .va .vva_2,
+                                .maarrhh6_aa .ua .uua_2,
+                                .maarrhh7_aa .ta .tta_2,
+                                .maarrhh8_aa .sa .ssa_2 {
+                                    height: 50%;
+                                    width: 295px;
+                                    font-size: 13px;
+                                    color: rgb(54, 51, 51);
+                                }
+
+                    .boorthom_rhegg .maarrhh1_aa .zb,
+                        .boorthom_rhegg .maarrhh2_aa .yb,
+                        .boorthom_rhegg .maarrhh3_aa .xb,
+                        .boorthom_rhegg .maarrhh4_aa .wb,
+                        .boorthom_rhegg .maarrhh5_aa .vb,
+                        .boorthom_rhegg .maarrhh6_aa .ub,
+                        .boorthom_rhegg .maarrhh7_aa .tb,
+                        .boorthom_rhegg .maarrhh8_aa .sb {
+                            /* background-color: #03f45b; */
+                            height: 100%;
+                            width: 675px;
+                            display: flex;
+                            align-items: center;
+                            justify-content: space-between;
+                        }
+                            .maarrhh1_aa .zb .zzb_1,
+                            .maarrhh1_aa .zb .zzb_2,
+
+                                .maarrhh2_aa .yb .yyb_1,
+                                .maarrhh2_aa .yb .yyb_2,
+
+                                .maarrhh3_aa .xb .xxb_1,
+                                .maarrhh3_aa .xb .xxb_2,
+
+                                .maarrhh4_aa .wb .wwb_1,
+                                .maarrhh4_aa .wb .wwb_2,
+
+                                .maarrhh5_aa .vb .vvb_1,
+                                .maarrhh5_aa .vb .vvb_2,
+
+                                .maarrhh6_aa .ub .uub_1,
+                                .maarrhh6_aa .ub .uub_2,
+
+                                .maarrhh7_aa .tb .ttb_1,
+                                .maarrhh7_aa .tb .ttb_2,
+
+                                .maarrhh8_aa .sb .ssb_1,
+                                .maarrhh8_aa .sb .ssb_2 {
+                                    /* background-color: #f403c8; */
+                                    height: 100%;
+                                    width: 200px;
+                                    display: flex;
+                                    align-items: center;
+                                    justify-content: space-between;
+                                }
+                                    .maarrhh1_aa .zb .zzb_1 button,
+                                    .maarrhh1_aa .zb .zzb_2 button,
+
+                                        .maarrhh2_aa .yb .yyb_1 button,
+                                        .maarrhh2_aa .yb .yyb_2 button,
+
+                                        .maarrhh3_aa .xb .xxb_1 button,
+                                        .maarrhh3_aa .xb .xxb_2 button,
+
+                                        .maarrhh4_aa .wb .wwb_1 button,
+                                        .maarrhh4_aa .wb .wwb_2 button,
+
+                                        .maarrhh5_aa .vb .vvb_1 button,
+                                        .maarrhh5_aa .vb .vvb_2 button,
+
+                                        .maarrhh6_aa .ub .uub_1 button,
+                                        .maarrhh6_aa .ub .uub_2 button,
+
+                                        .maarrhh7_aa .tb .ttb_1 button,
+                                        .maarrhh7_aa .tb .ttb_2 button,
+
+                                        .maarrhh8_aa .sb .ssb_1 button,
+                                        .maarrhh8_aa .sb .ssb_2 button {
+                                            border: none;
+                                            outline: none;
+                                            height: 25px;
+                                            width: 65px;
+                                            background-color: #298C47;
+                                            font-size: 12.5px;
+                                            color: white;
+                                            font-weight: 500;
+                                        }
+                                            .maarrhh1_aa .zb .zzb_1 button:hover,
+                                            .maarrhh1_aa .zb .zzb_2 button:hover,
+                                                .maarrhh2_aa .yb .yyb_1 button:hover,
+                                                .maarrhh2_aa .yb .yyb_2 button:hover,
+
+                                                .maarrhh3_aa .xb .xxb_1 button:hover,
+                                                .maarrhh3_aa .xb .xxb_2 button:hover,
+
+                                                .maarrhh4_aa .wb .wwb_1 button:hover,
+                                                .maarrhh4_aa .wb .wwb_2 button:hover,
+
+                                                .maarrhh5_aa .vb .vvb_1 button:hover,
+                                                .maarrhh5_aa .vb .vvb_2 button:hover,
+
+                                                .maarrhh6_aa .ub .uub_1 button:hover,
+                                                .maarrhh6_aa .ub .uub_2 button:hover,
+
+                                                .maarrhh7_aa .tb .ttb_1 button:hover,
+                                                .maarrhh7_aa .tb .ttb_2 button:hover,
+
+                                                .maarrhh8_aa .sb .ssb_1 button:hover,
+                                                .maarrhh8_aa .sb .ssb_2 button:hover {
+                                                    transition: 0.3.5s;
+                                                    background-color: #48b769;
+                                                    font-size: 13px;
+                                                    color: white;
+                                                    font-weight: 600;
+                                                }
+                            .maarrhh1_aa .zb .zzb_3,
+                                .maarrhh2_aa .yb .yyb_3,
+                                .maarrhh3_aa .xb .xxb_3,
+                                .maarrhh4_aa .wb .wwb_3,
+                                .maarrhh5_aa .vb .vvb_3,
+                                .maarrhh6_aa .ub .uub_3,
+                                .maarrhh7_aa .tb .ttb_3,
+                                .maarrhh8_aa .sb .ssb_3 {
+                                    /* background-color: #f4032f; */
+                                    height: 100%;
+                                    width: 155px;
+                                    font-size: 13px;
+                                    color: rgb(54, 51, 51);
+                                    font-weight: bolder;
+                                    display: flex;
+                                    align-items: center;
+                                    justify-content: center;
+                                }
+                                    .maarrhh1_aa .zb .zzb_3 .zzb_3a,
+                                        .maarrhh2_aa .yb .yyb_3 .yyb_3a,
+                                        .maarrhh3_aa .xb .xxb_3 .xxb_3a,
+                                        .maarrhh4_aa .wb .wwb_3 .wwb_3a,
+                                        .maarrhh5_aa .vb .vvb_3 .vvb_3a,
+                                        .maarrhh6_aa .ub .uub_3 .uub_3a,
+                                        .maarrhh7_aa .tb .ttb_3 .ttb_3a,
+                                        .maarrhh8_aa .sb .ssb_3 .ssb_3a {
+                                            font-size: 12px;
+                                            color: rgb(54, 51, 51);
+                                            font-weight: bolder;
+                                            margin-right: 3px;
+                                            margin-bottom: 5px;
+                                        }
+                                    .maarrhh1_aa .zb .zzb_3 .zzb_3b,
+                                        .maarrhh2_aa .yb .yyb_3 .yyb_3b,
+                                        .maarrhh3_aa .xb .xxb_3 .xxb_3b,
+                                        .maarrhh4_aa .wb .wwb_3 .wwb_3b,
+                                        .maarrhh5_aa .vb .vvb_3 .vvb_3b,
+                                        .maarrhh6_aa .ub .uub_3 .uub_3b,
+                                        .maarrhh7_aa .tb .ttb_3 .ttb_3b,
+                                        .maarrhh8_aa .sb .ssb_3 .ssb_3b {
+                                            height: 100%;
+                                            width: 132px;
+                                            display: flex;
+                                            align-items: center;
+                                            justify-content: space-between;
+                                        }
+                                            .maarrhh1_aa .zb .zzb_3 .zzb_3b button,
+                                                .maarrhh2_aa .yb .yyb_3 .yyb_3b button,
+                                                .maarrhh3_aa .xb .xxb_3 .xxb_3b button,
+                                                .maarrhh4_aa .wb .wwb_3 .wwb_3b button,
+                                                .maarrhh5_aa .vb .vvb_3 .vvb_3b button,
+                                                .maarrhh6_aa .ub .uub_3 .uub_3b button,
+                                                .maarrhh7_aa .tb .ttb_3 .ttb_3b button,
+                                                .maarrhh8_aa .sb .ssb_3 .ssb_3b button {
+                                                    border: none;
+                                                    outline: none;
+                                                    height: 25px;
+                                                    width: 65px;
+                                                    background-color: #298C47;
+                                                    font-size: 12.5px;
+                                                    color: white;
+                                                    font-weight: 500;
+                                                }
+                                                    .maarrhh1_aa .zb .zzb_3 .zzb_3b button:hover,
+                                                        .maarrhh2_aa .yb .yyb_3 .yyb_3b button:hover,
+                                                        .maarrhh3_aa .xb .xxb_3 .xxb_3b button:hover,
+                                                        .maarrhh4_aa .wb .wwb_3 .wwb_3b button:hover,
+                                                        .maarrhh5_aa .vb .vvb_3 .vvb_3b button:hover,
+                                                        .maarrhh6_aa .ub .uub_3 .uub_3b button:hover,
+                                                        .maarrhh7_aa .tb .ttb_3 .ttb_3b button:hover,
+                                                        .maarrhh8_aa .sb .ssb_3 .ssb_3b button:hover {
+                                                            transition: 0.3.5s;
+                                                            background-color: #48b769;
+                                                            font-size: 13px;
+                                                            color: white;
+                                                            font-weight: 600;
+                                                        }
+
+                    .boorthom_rhegg .maarrhh1_aa .zc,
+                        .boorthom_rhegg .maarrhh2_aa .yc,
+                        .boorthom_rhegg .maarrhh3_aa .xc,
+                        .boorthom_rhegg .maarrhh4_aa .wc,
+                        .boorthom_rhegg .maarrhh5_aa .vc,
+                        .boorthom_rhegg .maarrhh6_aa .uc,
+                        .boorthom_rhegg .maarrhh7_aa .tc,
+                        .boorthom_rhegg .maarrhh8_aa .sc {
+                            /* background-color: #210505cf; */
+                            height: 100%;
+                            width: 95px;
+                            display: flex;
+                            align-items: center;
+                            justify-content: space-around;
+
+                        }
+                            .boorthom_rhegg .maarrhh1_aa .zc div,
+                            .boorthom_rhegg .maarrhh1_aa .zc .fa,
+
+                                .boorthom_rhegg .maarrhh2_aa .yc div,
+                                .boorthom_rhegg .maarrhh2_aa .yc .fa,
+                                
+                                .boorthom_rhegg .maarrhh3_aa .xc div,
+                                .boorthom_rhegg .maarrhh3_aa .xc .fa,
+
+                                .boorthom_rhegg .maarrhh4_aa .wc div,
+                                .boorthom_rhegg .maarrhh4_aa .wc .fa,
+
+                                .boorthom_rhegg .maarrhh5_aa .vc div,
+                                .boorthom_rhegg .maarrhh5_aa .vc .fa,
+
+                                .boorthom_rhegg .maarrhh6_aa .uc div,
+                                .boorthom_rhegg .maarrhh6_aa .uc .fa,
+
+                                .boorthom_rhegg .maarrhh7_aa .tc div,
+                                .boorthom_rhegg .maarrhh7_aa .tc .fa,
+
+                                .boorthom_rhegg .maarrhh8_aa .sc div,
+                                .boorthom_rhegg .maarrhh8_aa .sc .fa {
+                                    font-size: 13px;
+                                    color: #02A15C;
+                                    font-weight: bolder;
+                                }
+
+                                
+    .conte_containaa .ryye_sydde {
+        height: 220px;
+        width: 275px;
+        background-color: white;
+    }
+        .ryye_sydde .toppof_rye {
+            height: 40px;
+            width: 100%;
+            background-color: #3F444E;
+            padding: 0px 15px;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            margin-bottom: 15px;
+        }
+            /* .ryye_sydde .toppof_rye #toppof_rye_aaa  */
+            #toppof_rye111 {
+                height: 40px;
+                width: 110px;
+                background-color: #3F444E;
+                border: none;
+                outline: none;
+                color: white;
+                font-family: Arial, Helvetica, sans-serif;
+                font-size: 14px;
+                font-weight: 400;
+            } 
+
+                /* #toppof_rye111:active {
+                    border-bottom: 2px solid gainsboro;
+                } */
+                #toppof_rye111:hover {
+                    border-bottom: 2px solid rgb(167, 160, 160);
+                }
+            
+        .ryye_sydde .bhazz_rye_1 {
+            height: 122px;
+            width: 269px;
+            /* background-color: red;           */
+            margin: 0px 3px;
+        }
+            .ryye_sydde .bhazz_rye_1 div {
+                font-family: Arial, Helvetica, sans-serif;
+                font-size: 14px;
+                font-weight: 400;
+                padding: 0px 42.5px;
+            }
+            
+        .ryye_sydde .bhazz_rye_2  {
+            height: 43px;
+            width: 269px;
+            margin: 0px 3px 3px 3px;
+            /* padding-left: 3px;
+            padding-right: 3px; */           
+        }
+            .ryye_sydde .bhazz_rye_2 .bhazzz_burt {
+                height: 40px;
+                width: 270px;
+                background-color: #2B9A4C;
+                border: none;
+                outline: none;
+                color: white;
+                font-family: Arial, Helvetica, sans-serif;
+                font-size: 12px;
+                font-weight: 400;
+            }
+
+
+    /* ...Elijah's... */
+
+.footter {
+        margin-top: 80px;
+}
+    .footter a {
+        color: #31A554;
+        font-size: 12px;
+    }
+    .footter a:hover {
+        color: white;
+        text-decoration: none;
+    }
+    .left2 {
+        width: 1165px;
+        height: 270px;
+        background-color: #37444E;
+        border-top: 4px solid #31A554;
+    }
+    .right2{
+        width: 230px;
+        height: 270px;
+        background-color: #3D434E;
+        border-top: 4px solid red;
+    }
+
+    /* <!-- ...####.... --> */
