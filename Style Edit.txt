@@ -1,0 +1,486 @@
+
+@import url(./bootstrap.css);
+
+html, body{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+
+    background-image: repeating-linear-gradient(90deg, #363A43 20%, #424650 20%, #545864 20%, #595D69 20%);
+    /* font-family: Arial, Helvetica, sans-serif; */
+}
+
+/* Nav By Elijah */
+
+body {
+    background-color: black;
+}  
+nav {
+    background-color: #373A45;
+    margin-top: -5px;
+}
+nav img {
+    width: 150px;
+}
+nav a {
+    color: white !important;
+}
+nav a:hover {
+    color: #FFCD00 !important;
+}
+nav a:active {
+    color: #FFCD00 !important;
+}
+nav button {
+    margin-top: 6px;
+    border: none;
+    font-size: 12px;
+    padding: 5px 20px 7px 20px;
+    background-color: #0D7B3C;
+    color: white;
+    border-radius: 3px;
+}
+
+/* ... */
+
+/* <-- Continuation Mid --> */
+.scr_topb {
+    height: 40px;
+    /* width: 100%; */
+    min-width: 1290px;
+    display: flex;
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    /* font-size: 14px; */
+    /* scroll-snap-type: x mandatory;
+    overflow-x: scroll; */
+
+}
+
+    #ahanddd {
+        height: 40px;
+        width: 35px;
+        background-color: white;
+        font-size: 17px;
+        font-weight: 100;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        color: #696e77;
+    }
+        .scr_topb .bundz {
+            height: 100%;
+            width: 155px;
+            background-color: #2DA050
+            /* font-family: Arial, Helvetica, sans-serif; */
+            /* font-size: 14px; */
+
+        }
+            .scr_topb .bundz #bahkgr {
+                margin: 10px 15px;
+                height: 20px;
+                width: 125px;
+                background-color: white;
+                /* background-color: #2DA050; */
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                
+
+            }
+                .scr_topb .bundz #bahkgr img {
+                    margin-right: 2.5px;
+                    height: 15px;
+                    width: 15px;
+                    /* background-color: white; */
+                }
+                .scr_topb .bundz #bahkgr .klorb_naim {
+                    font-family: Arial, Helvetica, sans-serif;
+                    font-size: 14px;
+                    font-weight: 800;
+
+                }
+
+        .scr_topb .huerroll {
+            height: 100%;
+            width: 145px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            /* padding: 10px 5px; */
+
+        }
+            /* .scr_topb .huerroll #bahkgr {
+                margin: 10px 5px;
+                height: 20px;
+                width: 135px;
+                background-color: white;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                
+
+            } */
+                .scr_topb .huerroll img {
+                    margin-right: 5px;
+                    height: 20px;
+                    width: 20px;
+                    background-color: transparent;
+                    border: 1.5px solid black;
+                    border-radius: 50%;
+
+                }
+                .scr_topb .huerroll .klorb_naim {
+                    font-family: Arial, Helvetica, sans-serif;
+                    font-size: 15px;
+                    font-weight: 400;
+
+                }
+        .scr_topb .huerroll:hover {
+            background-color: #2DA050;
+            color: white;
+        }
+
+        .scr_topb .huerroll_2 {
+            height: 100%;
+            width: 160px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            /* padding: 10px 5px; */
+
+        }
+            .scr_topb .huerroll_2 img {
+                margin-right: 5px;
+                height: 20px;
+                width: 20px;
+                background-color: transparent;
+                border: 1.5px solid black;
+                border-radius: 50%;
+            }
+            .scr_topb .huerroll_2 .klorb_naim {
+                font-family: Arial, Helvetica, sans-serif;
+                font-size: 15px;
+                font-weight: 400;
+            }
+        .scr_topb .huerroll_2:hover {
+            background-color: #2DA050;
+            color: white;
+        }
+
+        .scr_topb .huerroll_3 {
+            height: 100%;
+            width: 130px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            /* padding: 10px 5px; */
+
+        }
+            .scr_topb .huerroll_3 img {
+                margin-right: 5px;
+                height: 20px;
+                width: 20px;
+                background-color: transparent;
+                border: 1.5px solid black;
+                border-radius: 50%;
+            }
+            .scr_topb .huerroll_3 .klorb_naim {
+                font-family: Arial, Helvetica, sans-serif;
+                font-size: 15px;
+                font-weight: 400;
+            }
+        .scr_topb .huerroll_3:hover {
+            background-color: #2DA050;
+            color: white;
+        }
+
+        .scr_topb .huerroll_4 {
+            height: 100%;
+            width: 140px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            /* padding: 10px 5px; */
+
+        }
+            .scr_topb .huerroll_4 img {
+                margin-right: 5px;
+                height: 20px;
+                width: 20px;
+                background-color: transparent;
+                border: 1.5px solid black;
+                border-radius: 50%;
+            }
+            .scr_topb .huerroll_4 .klorb_naim {
+                font-family: Arial, Helvetica, sans-serif;
+                font-size: 14px;
+                font-weight: 400;
+                /* text-transform: uppercase; */
+            }
+        .scr_topb .huerroll_4:hover {
+            background-color: #2DA050;
+            color: white;
+        }
+
+        .scr_topb .huerroll_5 {
+            height: 100%;
+            width: 140px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            /* padding: 10px 5px; */
+
+        }
+            .scr_topb .huerroll_5 img {
+                margin-right: 5px;
+                height: 20px;
+                width: 20px;
+                background-color: transparent;
+                border: 1.5px solid black;
+                border-radius: 50%;
+            }
+            .scr_topb .huerroll_5 .klorb_naim {
+                font-family: Arial, Helvetica, sans-serif;
+                font-size: 14px;
+                font-weight: 400;
+                /* text-transform: uppercase; */
+            }
+        .scr_topb .huerroll_5:hover {
+            background-color: #2DA050;
+            color: white;
+        }
+
+        .scr_topb .huerroll_6 {
+            height: 100%;
+            width: 130px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            /* padding: 10px 5px; */
+
+        }
+            .scr_topb .huerroll_6 img {
+                margin-right: 5px;
+                height: 20px;
+                width: 20px;
+                background-color: transparent;
+                border: 1.5px solid black;
+                border-radius: 50%;
+            }
+            .scr_topb .huerroll_6 .klorb_naim {
+                font-family: Arial, Helvetica, sans-serif;
+                font-size: 14px;
+                font-weight: 400;
+                /* text-transform: uppercase; */
+            }
+        .scr_topb .huerroll_6:hover {
+            background-color: #2DA050;
+            color: white;
+        }
+
+        .scr_topb .huerroll_7 {
+            height: 100%;
+            width: 165px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            /* padding: 10px 5px; */
+
+        }
+            .scr_topb .huerroll_7 img {
+                margin-right: 5px;
+                height: 20px;
+                width: 20px;
+                background-color: transparent;
+                border: 1.5px solid black;
+                border-radius: 50%;
+            }
+            .scr_topb .huerroll_7 .klorb_naim {
+                font-family: Arial, Helvetica, sans-serif;
+                font-size: 14px;
+                font-weight: 400;
+            }
+        .scr_topb .huerroll_7:hover {
+            background-color: #2DA050;
+            color: white;
+        }
+
+        .scr_topb .huerroll_8 {
+            height: 100%;
+            width: 145px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            /* padding: 10px 5px; */
+
+        }
+            .scr_topb .huerroll_8 img {
+                margin-right: 5px;
+                height: 20px;
+                width: 20px;
+                background-color: transparent;
+                border: 1.5px solid black;
+                border-radius: 50%;
+            }
+            .scr_topb .huerroll_8 .klorb_naim {
+                font-family: Arial, Helvetica, sans-serif;
+                font-size: 14px;
+                font-weight: 400;
+            }
+        .scr_topb .huerroll_8:hover {
+            background-color: #2DA050;
+            color: white;
+        }
+
+        /* .scr_topb .huerroll_9 {
+            height: 100%;
+            width: 100px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+            .scr_topb .huerroll_9 img {
+                margin-right: 5px;
+                height: 20px;
+                width: 20px;
+                background-color: transparent;
+                border: 1.5px solid black;
+                border-radius: 50%;
+            }
+            .scr_topb .huerroll_9 .klorb_naim {
+                font-family: Arial, Helvetica, sans-serif;
+                font-size: 14px;
+                font-weight: 400;
+            }
+        .scr_topb .huerroll_9:hover {
+            background-color: #2DA050;
+            color: white;
+        } */
+
+        /*.scr_topb .huerroll_10 {
+            height: 100%;
+            width: 100px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+            .scr_topb .huerroll_10 img {
+                margin-right: 3.5px;
+                height: 20px;
+                width: 20px;
+                background-color: transparent;
+                border-radius: 3px;
+                /* border: 1.5px solid black;
+                border-radius: 50%; */
+            }
+            /*.scr_topb .huerroll_10 .klorb_naim {
+                font-family: Arial, Helvetica, sans-serif;
+                font-size: 14px;
+                font-weight: bolder;
+            }
+        .scr_topb .huerroll_10:hover {
+            background-color: #2DA050;
+            color: white;
+        }*/
+
+        /* .scr_topb .huerroll_11 {
+            height: 100%;
+            width: 100px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+
+        }
+            .scr_topb .huerroll_11 img {
+                margin-right: 5px;
+                height: 20px;
+                width: 20px;
+                background-color: transparent;
+                border: 1.5px solid black;
+                border-radius: 50%;
+            }
+            .scr_topb .huerroll_11 .klorb_naim {
+                font-family: Arial, Helvetica, sans-serif;
+                font-size: 14px;
+                font-weight: 400;
+            }
+        .scr_topb .huerroll_11:hover {
+            background-color: #2DA050;
+            color: white;
+        } */
+
+
+
+.conte_containaa {
+    margin-top: 10px;
+    display: flex;
+
+}
+
+    .conte_containaa .leff_sydd {
+        height: 785px;
+        width: 1045px;
+        background-color: #5b74c0;
+        margin-right: 10px;
+    }
+    .conte_containaa .ryye_sydde {
+        height: 220px;
+        width: 275px;
+        background-color: white;
+    }
+        .ryye_sydde .toppof_rye {
+            height: 40px;
+            width: 100%;
+            background-color: #3F444E;
+            padding: 0px 15px;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            margin-bottom: 15px;
+        }
+            /* .ryye_sydde .toppof_rye #toppof_rye_aaa  */
+            #toppof_rye111 {
+                height: 40px;
+                width: 110px;
+                background-color: #3F444E;
+                border: none;
+                outline: none;
+                color: white;
+                font-family: Arial, Helvetica, sans-serif;
+                font-size: 14px;
+                font-weight: 400;
+
+            }
+            
+        .ryye_sydde .bhazz_rye_1 {
+            height: 122px;
+            width: 269px;
+            /* background-color: red;           */
+            margin: 0px 3px;
+        }
+            .ryye_sydde .bhazz_rye_1 div {
+                font-family: Arial, Helvetica, sans-serif;
+                font-size: 14px;
+                font-weight: 400;
+                padding: 0px 42.5px;
+            }
+            
+        .ryye_sydde .bhazz_rye_2  {
+            height: 43px;
+            width: 269px;
+            margin: 0px 3px 3px 3px;
+            /* padding-left: 3px;
+            padding-right: 3px; */           
+        }
+            .ryye_sydde .bhazz_rye_2 .bhazzz_burt {
+                height: 40px;
+                width: 270px;
+                background-color: #2B9A4C;
+                border: none;
+                outline: none;
+                color: white;
+                font-family: Arial, Helvetica, sans-serif;
+                font-size: 12px;
+                font-weight: 400;
+            }
